@@ -1,1 +1,1 @@
-# jindodog
+# jindo
